@@ -1,5 +1,4 @@
 # Sherwin Samson
-# PS9286
 # 
 #
 import random
